@@ -1,12 +1,6 @@
 # Android-Login-And-Registration
 Android Login And Registration System with PHP, MySQL and SQLite Databases.
 
-Read Full tutorial
-[Develop a Complete Android Login Registration System with PHP, MySQL](https://www.androidlearning.com/android-login-registration-with-php-mysql-sqlite/)
-
-## Download Android Learning Application
-<a href="https://play.google.com/store/apps/details?id=snow.androidlearning.app">
-<img src="https://play.google.com/intl/en_us/badges/images/badge_new.png" title="Android Learning App" target="_blank"/></a>
 
 ## Login Screen
 <a href="https://github.com/akrajilwar/Android-Login-And-Registration/blob/master/project_2_login_screen.png">
@@ -25,7 +19,7 @@ Read Full tutorial
 <img src="https://github.com/akrajilwar/Android-Login-And-Registration/blob/master/project_2_home_screen.png" height="640px" /></a>
 
 
-## Steps for WINDOWS ON XAMPP
+## Steps for Windows - XAMPP
   - Git clone this Repository
   - Copy android_login folder to XAMPP=>htdocs
   - Create database android_login =>
@@ -43,7 +37,7 @@ Read Full tutorial
   - If you are using localhost:[PORT] change Mainurl to MAIN_URL = "http://10.0.2.2:[PORT]/android_login/"
   - If you are using just localhost change Mainurl to MAIN_URL = "http://10.0.2.2/android_login/"
 
-## Steps for WEBHOSTING
+## Steps for Webhosting
   - Git clone this Repository
   - Copy android_login folder to cpanel=>www
   - Create database android_login =>
